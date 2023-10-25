@@ -1,0 +1,5 @@
+#No cargar a git
+package-lock.json
+tsconfig.json
+vite-env.d.ts
+
